@@ -4,23 +4,28 @@
 <head>
 
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>自己紹介ページ</title>
     <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <img class="background" src="https://fuyuna.net/wp-content/uploads/2021/03/gradation_eyecatch-640x360.jpg">
-    <h1>自己紹介について</h1>
-    <div>
-        <h2>名前：佐藤琢磨</h2>
-@@ -21,10 +22,11 @@
-        <p>種別：負け犬(生きていてごめんなさい)</p>
-        <img src="bb.jpg" alt="だいたいこんなの"title="無し" width="560" height="400">
-    </div>
-    <div>
-    <div id="kigure">
-        <h2>名前：木暮優真</h2>
-        <p>趣味：ドライブとツーリング</p>
-        <p>一言：よろしくお願いします！</p>
-        <img width="200px" style="border: none; border-radius: 100%;" src="https://img1.picmix.com/output/stamp/normal/9/7/6/1/2391679_c54c1.gif"></img>
-    </div>
+  <h1>こう</h1>
+
+  <h2>about</h2>
+  <p>
+   おじさん。児童発達支援をしています
+　</p>
+
+  <h3>profile</h3>
+　<ul>
+    <li>こう</li>
+    <li>関東に住んでいる</li>
+    <li>パソコン苦手</li>
+  </ul>
+
+  <h3>作ったもの</h3>
+    <li><a href="https://tomoki.tokyo/">会社のHP</a></li>
+
+</vody>
+</html>
