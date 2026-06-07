@@ -1,29 +1,26 @@
-<div align="center">
- <h1> Hello, I'm <span style="color: #0969da;">[あなたの名前]</span>!</h1>
- <p>プロフィールを見に来ていただきありがとうございます！</p>
-</div>
+@@ -1,13 +1,14 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
 
-<hr />
-
-## 自己紹介 (About Me)
-
-<table>
- <tr>
- <td width="150px"><b> 名前</b></td>
- <td>[神立　雅裕 / こう]</td>
- </tr>
- <tr>
- <td><b> 生年月日</b></td>
- <td>[1977年12月8日]</td>
- </tr>
- <tr>
- <td><b> 性別</b></td>
- <td>[男性]</td>
- </tr>
-</table>
-
-## 仕事の内容 (Work)
-
-* **職種:** [児童発達支援]
-* **主な業務内容:**
-育てにくさを感じるお子様の成長を助ける仕事をしています
+    <meta charset="UTF-8">
+    <title>自己紹介ページ</title>
+    <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img class="background" src="https://fuyuna.net/wp-content/uploads/2021/03/gradation_eyecatch-640x360.jpg">
+    <h1>自己紹介について</h1>
+    <div>
+        <h2>名前：佐藤琢磨</h2>
+@@ -21,10 +22,11 @@
+        <p>種別：負け犬(生きていてごめんなさい)</p>
+        <img src="bb.jpg" alt="だいたいこんなの"title="無し" width="560" height="400">
+    </div>
+    <div>
+    <div id="kigure">
+        <h2>名前：木暮優真</h2>
+        <p>趣味：ドライブとツーリング</p>
+        <p>一言：よろしくお願いします！</p>
+        <img width="200px" style="border: none; border-radius: 100%;" src="https://img1.picmix.com/output/stamp/normal/9/7/6/1/2391679_c54c1.gif"></img>
+    </div>
