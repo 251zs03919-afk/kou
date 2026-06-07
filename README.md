@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
-<body class="bg-success-subtle">
+<body class=".bg-success-subtle">
     
   <h1>こう</h1>
 
