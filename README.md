@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="kou">
+<html lang="ja">
 <head>
 
     <meta charset="UTF-8">
@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<body class="bg-success-subtle">
   <h1>こう</h1>
 
   <h2>about</h2>
@@ -24,6 +25,7 @@
   </ul>
 
   <h3>作ったもの</h3>
+    <li><img
     <li><a href="https://tomoki.tokyo/">会社のHP</a></li>
 
 </vody>
